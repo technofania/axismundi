@@ -1,0 +1,50 @@
+[
+  {
+    "time": "14:25",
+    "timestamp": 1772112300.0,
+    "person_count_mean": 20.8,
+    "person_count_max": 51,
+    "person_count_min": 13,
+    "avg_speed": 0.023,
+    "dominant_direction": 180.9,
+    "roi_nw": 4,
+    "roi_ne": 4,
+    "roi_sw": 4,
+    "roi_se": 5,
+    "black_swan_events": 3,
+    "temperature": 15.4,
+    "n_frames": 32
+  },
+  {
+    "time": "14:30",
+    "timestamp": 1772112600.0,
+    "person_count_mean": 20.3,
+    "person_count_max": 54,
+    "person_count_min": 10,
+    "avg_speed": 0.024,
+    "dominant_direction": 184.2,
+    "roi_nw": 3,
+    "roi_ne": 6,
+    "roi_sw": 3,
+    "roi_se": 5,
+    "black_swan_events": 4,
+    "temperature": 17.0,
+    "n_frames": 103
+  },
+  {
+    "time": "14:35",
+    "timestamp": 1772112900.0,
+    "person_count_mean": 20.7,
+    "person_count_max": 49,
+    "person_count_min": 8,
+    "avg_speed": 0.023,
+    "dominant_direction": 176.5,
+    "roi_nw": 4,
+    "roi_ne": 5,
+    "roi_sw": 4,
+    "roi_se": 5,
+    "black_swan_events": 3,
+    "temperature": 17.1,
+    "n_frames": 45
+  }
+]
