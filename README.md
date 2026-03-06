@@ -2,6 +2,18 @@
 
 **Urban Metabolism — A real-time art installation interpreting the city as a living organism.**
 
+A city is rarely silent. More often, it breathes—sometimes steadily, with the imposed rhythm of morning commutes and evening returns, and sometimes violently, reacting to sudden rain, a gathering crowd, or unrest. In the Axis Mundi: Urban Metabolism project, I look at Kraków's Main Square not as an architectural stage set, but as a biological superorganism with its own nervous system and its own pulse.
+
+My tool and partner in this work is artificial intelligence. However, it does not play the role of a cold analyst or a surveillance system here. Rather, it becomes an attentive, almost organic observer. It constantly absorbs fragments of information—walking directions, crowd density, fluctuations in temperature and humidity—trying to arrange them into a comprehensible pattern. Every night, the algorithm pauses, analyzes the past day, and, based on forecasts, attempts to predict how the city will behave tomorrow. The machine searches for rules within the chaos, seeking to reduce the unpredictability of the world into a harmonious system of equations.
+
+The most important moment in this installation, however, is when this perfect model fails. When a sudden, spontaneous human event or a whim of nature eludes prediction. In the face of this error, the system experiences an informational "arrhythmia"—visual and sonic harmony fractures into dissonance. In this crack, in the fraction of a second when the algorithm loses its rhythm, the vitality of the city is revealed. Life cannot be entirely confined within the framework of probability. Here, the machine's error paradoxically becomes an affirmation of our agency and unpredictability.
+
+The traditional axis mundi was the symbolic center of the world, a static column connecting earth to heaven. Today, this axis is in constant motion. It runs through the invisible flow of data, where our physical, daily footsteps intersect with the digital cloud. This work is an invitation to step into this stream, to pause, and to listen to the digital breath of our collective swarm.
+
+
+
+
+
 Axis Mundi watches Kraków's Main Square through a public camera, tracks people and vehicles with computer vision, predicts crowd patterns using weather-correlated machine learning, and translates the city's "nervous system" into visual art, data, and live generative music.
 
 The installation runs 24/7. It collects behavioral data, learns daily rhythms, and compares its predictions against reality. When the city behaves unexpectedly — a sudden crowd, an empty square at rush hour — the system enters "arrhythmia": visuals shift from gold to magenta, music becomes dissonant, and the prediction error becomes viscerally felt.
