@@ -4,7 +4,7 @@
 
 IG: mat.swiderski
 
-A city is rarely silent. More often, it breathes—sometimes steadily, with the imposed rhythm of morning commutes and evening returns, and sometimes violently, reacting to sudden rain, a gathering crowd, or unrest. In the Axis Mundi: Urban Metabolism project, I look at Kraków's Main Square not as an architectural stage set, but as a biological superorganism with its own nervous system and its own pulse.
+A city is rarely silent. More often, it breathes - sometimes steadily, with the imposed rhythm of morning commutes and evening returns, and sometimes violently, reacting to sudden rain, a gathering crowd, or unrest. In the Axis Mundi: Urban Metabolism project, I look at Kraków's Main Square not as an architectural stage set, but as a biological superorganism with its own nervous system and its own pulse.
 
 My tool and partner in this work is artificial intelligence. However, it does not play the role of a cold analyst or a surveillance system here. Rather, it becomes an attentive, almost organic observer. It constantly absorbs fragments of information—walking directions, crowd density, fluctuations in temperature and humidity—trying to arrange them into a comprehensible pattern. Every night, the algorithm pauses, analyzes the past day, and, based on forecasts, attempts to predict how the city will behave tomorrow. The machine searches for rules within the chaos, seeking to reduce the unpredictability of the world into a harmonious system of equations.
 
