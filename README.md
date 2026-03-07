@@ -1,6 +1,8 @@
 # AXIS MUNDI
 
-**Urban Metabolism — A real-time art installation interpreting the city as a living organism.**
+**Urban Metabolism: A real-time art installation interpreting the city as a living organism.**
+
+IG: mat.swiderski
 
 A city is rarely silent. More often, it breathes—sometimes steadily, with the imposed rhythm of morning commutes and evening returns, and sometimes violently, reacting to sudden rain, a gathering crowd, or unrest. In the Axis Mundi: Urban Metabolism project, I look at Kraków's Main Square not as an architectural stage set, but as a biological superorganism with its own nervous system and its own pulse.
 
